@@ -32656,5 +32656,47 @@
             "Joomla5"
         ],
         "category": "Business & Corporate"
+    },
+    {
+        "id": 2984,
+        "name": "Arctic",
+        "intro_text": "<p>Construction Industry Business Template</p>",
+        "intro_image": "https://templatejoomla.com/images/templates/joomlatema/artic.webp#joomlaImage://local-images/templates/joomlatema/artic.webp?width=438&height=211",
+        "creation_date": "2025-08-20 22:00:00",
+        "last_update": "2025-08-22 16:04:02",
+        "author_name": "JoomlaTema",
+        "demo_url": "https://demo.templatemonster.com/demo/540784.html?aff=web_eau_net",
+        "download_url": "https://www.templatemonster.com/joomla-templates/arctic-construction-industry-business-template-540784.html?aff=web_eau_net",
+        "compatibility": [
+            "Joomla4",
+            "Joomla5"
+        ],
+        "category": "Business & Corporate"
+    },
+    {
+        "id": 2985,
+        "name": "Ibadah",
+        "intro_text": "<p>Islamic Center & Religious Joomla Template</p>",
+        "intro_image": "https://templatejoomla.com/images/templates/codelayers/ibadah.webp#joomlaImage://local-images/templates/codelayers/ibadah.webp?width=438&height=211",
+        "creation_date": "2025-08-13 14:35:39",
+        "last_update": "2025-08-22 15:48:57",
+        "author_name": "Codelayers",
+        "demo_url": "https://1.envato.market/LK3AGY",
+        "download_url": "https://1.envato.market/55P23L",
+        "compatibility": "Joomla5",
+        "category": "Religious & Non-Profit"
+    },
+    {
+        "id": 2986,
+        "name": "Kloan",
+        "intro_text": "<p>Cleaning Service Joomla Template</p>\r\n",
+        "intro_image": "https://templatejoomla.com/images/templates/Unitemplates/kloan.webp#joomlaImage://local-images/templates/Unitemplates/kloan.webp?width=438&height=211",
+        "creation_date": "2025-08-21 22:00:00",
+        "last_update": "2025-08-23 05:01:25",
+        "author_name": "Unitemplates",
+        "demo_url": "https://demo.unitemplates.com/kloan/index.php/pages/features",
+        "download_url": "https://www.unitemplates.com/joomla-templates/kloan",
+        "compatibility": "Joomla5",
+        "category": "Business & Corporate"
     }
 ]
