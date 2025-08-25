@@ -5,7 +5,7 @@
         "intro_text": "<p>Business Consulting Multi-Purpose Joomla Template</p>\r\n",
         "intro_image": "https://templatejoomla.com/images/templates/Prothemes/bussin.webp#joomlaImage://local-images/templates/Prothemes/bussin.webp?width=438&height=211",
         "creation_date": "2022-09-23 04:53:51",
-        "last_update": "2025-08-23 07:29:53",
+        "last_update": "2025-08-25 15:49:42",
         "author_name": "ProThemes",
         "demo_url": "https://demo.templatemonster.com/demo/277288.html?aff=web_eau_net",
         "download_url": "https://www.templatemonster.com/joomla-templates/bussin-business-consulting-multi-purpose-joomla-template-277288.html?aff=web_eau_net",
@@ -14,10 +14,7 @@
             "Joomla5"
         ],
         "category": "Business & Corporate",
-        "pricing": [
-            "Single purchase",
-            "Club membership"
-        ]
+        "pricing": "Single purchase"
     },
     {
         "id": 2,
